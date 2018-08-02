@@ -1,5 +1,5 @@
 /* slick 플러그인 */
-.slick-slider .slick-list {overflow-x:hidden; overflow-y:hidden; position:relative;}
+.slick-slider .slick-list {overflow:hidden; position:relative;}
 .slick-slider .slick-list.dragging {cursor:pointer;}
 .slick-slider .slick-list .slick-track {position:relative;}
 .slick-slider .slick-list .slick-track:before, .slick-slider .slick-list .slick-track:after {display:table; content:'';}
